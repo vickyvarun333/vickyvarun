@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vickyvarun333.github.io/vickyvarun/sitemap.xml
